@@ -16,7 +16,7 @@ I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. 
 ===== 📅 NOVEMBER - DECEMBER 2020
 🌞 *WEEKDAYS* +
 🟨 link:http://www.haskellcraft.com/craft3e/Home.html[The Craft of Functional Programming] +
-🟨 link:https://www.futurelearn.com/courses/functional-programming-haskell[Funtional Programming in Haskell] +
+🟨 link:https://www.futurelearn.com/courses/functional-programming-haskell[Functional Programming in Haskell] +
 🟨 link:https://www.theodinproject.com/courses/foundations[The Odin Project: Foundations] +
 🟨 link:https://developer.mozilla.org/en-US/docs/Learn/HTML[Mozilla: Web Development] +
 🟨 link:https://www.amazon.com/Functional-Programming-International-Computer-Science/dp/0201416670[Type Theory and Functional Programming] 

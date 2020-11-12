@@ -1,0 +1,41 @@
+=== 💖 WELCOME! 
+
+I'm Cate. At the present, I'm working on becoming a backend developer. I've always wanted to become a functional programmer but time, among many things, wasn't on my side. Now I can finally pursue my interest because I'm graced with a very supportive presence in my life—my partner.
+
+=== 📜 ROADMAP
+
+Because I only have limited financial resources, I thought of taking the informal route that is being self-taught right from the start. I'm grateful of how the programming community can be incredibly supportive to the newcomers and the experienced programmers alike.
+
+I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. Thank you so much link:https://stars.github.com/profiles/kamranahmedse/[@kamranahmedse]. The roadmap will serve as my guide throughout this seemingly intimidating and exciting journey. 
+
+=== 🔜 JOURNEY
+
+[NOTE]
+🟨 In progress 🟩 Finished
+
+===== 📅 NOVEMBER - DECEMBER 2020
+🌞 *WEEKDAYS* +
+🟨 link:http://www.haskellcraft.com/craft3e/Home.html[The Craft of Functional Programming] +
+🟨 link:https://www.futurelearn.com/courses/functional-programming-haskell[Funtional Programming in Haskell] +
+🟨 link:https://www.theodinproject.com/courses/foundations[The Odin Project: Foundations] +
+🟨 link:https://developer.mozilla.org/en-US/docs/Learn/HTML[Mozilla: Web Development] +
+🟨 link:https://www.amazon.com/Functional-Programming-International-Computer-Science/dp/0201416670[Type Theory and Functional Programming] 
+
+🌚 *WEEKENDS* +
+🟨 link:https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894[The Linux Command Line] +
+🟨 link:http://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces]
+
+=== 🙋‍♀️ CONNECT
+
+Got any suggestions in mind? +
+Want to be friends? +
+You're welcome to do so!
+
+Here are your options: +
+0⃣ Email: cbelasco@pm.me +
+1⃣ Discord: cateroxl#5892 +
+2⃣ Thinking about it 😊
+
+
+
+

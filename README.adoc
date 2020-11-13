@@ -28,7 +28,7 @@ I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. 
 💛 link:https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894[The Linux Command Line] +
 💛 link:http://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces]
 
-⭐ *EVERYDAY or ASAP* +
+⭐ *EVERYDAY or AMAIC* +
 💜 link:https://www.keybr.com/[Touch Typing]
 
 === 🙋‍♀️ CONNECT

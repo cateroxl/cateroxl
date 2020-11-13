@@ -1,6 +1,6 @@
 === 💖 WELCOME! 
 
-I'm Cate. At the present, I'm working on becoming a backend developer. I've always wanted to become a functional programmer but time, among many things, wasn't on my side. Now I can finally pursue my interest because I'm graced with a very supportive presence in my life—my partner.
+I'm Cate. At the present, I'm working on becoming a backend developer specializing in functional programming. I've always wanted to become one but time, among many things, wasn't on my side. Now I can finally pursue my interest because I'm graced with a very supportive presence in my life—my partner.
 
 === 📜 ROADMAP
 
@@ -11,19 +11,27 @@ I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. 
 === 🔜 JOURNEY
 
 [NOTE]
-🟨 In progress 🟩 Finished
+💛 In progress + 
+💚 Finished +
+💜 Indefinite
 
 ===== 📅 NOVEMBER - DECEMBER 2020
 🌞 *WEEKDAYS* +
-🟨 link:http://www.haskellcraft.com/craft3e/Home.html[The Craft of Functional Programming] +
-🟨 link:https://www.futurelearn.com/courses/functional-programming-haskell[Functional Programming in Haskell] +
-🟨 link:https://www.theodinproject.com/courses/foundations[The Odin Project: Foundations] +
-🟨 link:https://developer.mozilla.org/en-US/docs/Learn/HTML[Mozilla: Web Development] +
-🟨 link:https://www.amazon.com/Functional-Programming-International-Computer-Science/dp/0201416670[Type Theory and Functional Programming] 
+💛 link:https://www.amazon.com/Algorithm-Design-Haskell-Richard-Bird/dp/1108491618[Algorithm Design with Haskell] +
+💛 link:https://www.futurelearn.com/courses/functional-programming-haskell[Functional Programming in Haskell] +
+💛 link:https://www.theodinproject.com/courses/foundations[The Odin Project: Foundations] +
+💛 link:https://developer.mozilla.org/en-US/docs/Learn/HTML[Mozilla: Web Development] +
+💛 link:https://www.amazon.com/Thinking-Functionally-Haskell-Richard-Bird/dp/1107452643/[Thinking Functionally with Haskell] +
+💛 link:https://www.manning.com/books/get-programming-with-haskell[Get Programming With Haskell]
 
 🌚 *WEEKENDS* +
-🟨 link:https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894[The Linux Command Line] +
-🟨 link:http://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces]
+💛 link:https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894[The Linux Command Line] +
+💛 link:http://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces]
+
+⭐ *EVERYDAY or ASAP* +
+💜 link:https://www.hackerrank.com/domains/fp[HackerRank FP] +
+💜 link:https://www.reddit.com/r/adventofcode/[Advent of Code] +
+💜 link:https://www.keybr.com/[Touch Typing]
 
 === 🙋‍♀️ CONNECT
 

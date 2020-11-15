@@ -29,6 +29,7 @@ I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. 
 💜 link:https://www.keybr.com/[Touch Typing]
 
 ⭐ *HASKELL* +
+💛 link:https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201[*Grokking Simplicity (A MUST READ!!)*] +
 💛 link:https://www.amazon.com/Thinking-Functionally-Haskell-Richard-Bird/dp/1107452643/[Thinking Functionally with Haskell] +
 💛 link:https://www.manning.com/books/get-programming-with-haskell[Get Programming With Haskell] +
 💛 link:http://dev.stephendiehl.com/hask/#pdf-version[What I Wish I Knew When Learning Haskell] +

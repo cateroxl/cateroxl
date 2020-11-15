@@ -6,6 +6,8 @@ I'm Cate. At the present, I'm working on becoming a backend developer specializi
 
 Because I only have limited financial resources, I thought of taking the informal route that is being self-taught right from the start. I'm grateful of how the programming community can be incredibly supportive to the newcomers and the experienced programmers alike.
 
+I'm thinking about learning the following programming languages: Haskell, Clojure, F# for .Net and Scala (in the years to come).
+
 I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. Thank you so much link:https://stars.github.com/profiles/kamranahmedse/[@kamranahmedse]. The roadmap will serve as my guide throughout this seemingly intimidating and exciting journey. 
 
 === 🔜 JOURNEY

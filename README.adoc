@@ -6,7 +6,7 @@ I'm Cate. At the present, I'm working on becoming a backend developer specializi
 
 Because I only have limited financial resources, I thought of taking the informal route that is being self-taught right from the start. I'm grateful of how the programming community can be incredibly supportive to the newcomers and the experienced programmers alike.
 
-I'm thinking about learning the following programming languages: Haskell, Clojure, F# for .Net and Scala (in the years to come).
+Years down the road, I'm thinking about learning the following programming languages: Haskell, Clojure, F# for .Net and Scala.
 
 I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. Thank you so much link:https://stars.github.com/profiles/kamranahmedse/[@kamranahmedse]. The roadmap will serve as my guide throughout this seemingly intimidating and exciting journey. 
 
@@ -32,8 +32,6 @@ I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. 
 
 ⭐ *HASKELL* +
 💛 link:https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201[*Grokking Simplicity (A MUST READ!!)*] +
-💛 link:https://www.amazon.com/Thinking-Functionally-Haskell-Richard-Bird/dp/1107452643/[Thinking Functionally with Haskell] +
-💛 link:https://www.manning.com/books/get-programming-with-haskell[Get Programming With Haskell] +
 💛 link:http://dev.stephendiehl.com/hask/#pdf-version[What I Wish I Knew When Learning Haskell] +
 💛 link:https://www.futurelearn.com/courses/functional-programming-haskell[Functional Programming in Haskell] +
 💛 link:https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796[Practical Haskell] +

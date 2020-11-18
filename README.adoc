@@ -2,36 +2,11 @@
 
 I'm Cate. At the present, I'm working on becoming a backend developer specializing in functional programming. I've always wanted to become one but time, among many things, wasn't on my side. Now I can finally pursue my interest because I'm graced with a very supportive presence in my life—my partner.
 
-=== 📜 ROADMAP
+=== 📜 JOURNEY
 
 Because I only have limited financial resources, I thought of taking the informal route that is being self-taught right from the start. I'm grateful of how the programming community can be incredibly supportive to the newcomers and the experienced programmers alike.
 
-Years down the road, I'm thinking about learning the following programming languages: Haskell, Clojure, F# for .Net and Scala.
-
-I found this link:https://roadmap.sh/backend[Modern Backend Developer Roadmap]. Thank you so much link:https://stars.github.com/profiles/kamranahmedse/[@kamranahmedse]. The roadmap will serve as my guide throughout this seemingly intimidating and exciting journey. 
-
 Check out my link:https://github.com/cateroxl/Learning-Tracker[*Learning Tracker*]!
-
-=== 🔜 JOURNEY
-
-[NOTE]
-💛 In progress + 
-💚 Finished +
-💜 Indefinite
-
-===== 📅 NOVEMBER - FEBRUARY 2020
-
-🌞 *WEEKDAYS* +
-💛 link:https://www.theodinproject.com/courses/foundations[The Odin Project: Foundations] +
-💛 link:https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894[The Linux Command Line] +
-
-⭐ *HASKELL* +
-💛 link:https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201[*Grokking Simplicity (A MUST READ!!)*] +
-💛 link:https://www.futurelearn.com/courses/functional-programming-haskell[Functional Programming in Haskell] +
-💛 link:https://www.amazon.com/Practical-Haskell-World-Guide-Programming/dp/1484244796[Practical Haskell] 
-
-⭐ *EVERYDAY or ASAIC* +
-💜 link:https://www.keybr.com/[Touch Typing]
 
 === 🙋‍♀️ CONNECT
 

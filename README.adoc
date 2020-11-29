@@ -11,7 +11,8 @@ Check out my link:https://github.com/cateroxl/Learning-Tracker[*Learning Tracker
 === 👩‍💻 ACCOUNTS
 
 link:https://nest.pijul.com/cateroxl[The Nest] +
-link:https://gitlab.com/cateroxl[Gitlab]
+link:https://gitlab.com/cateroxl[Gitlab] +
+link:https://discourse.nixos.org/u/cateroxl/[NixOs]
 
 === 🙋‍♀️ CONNECT
 

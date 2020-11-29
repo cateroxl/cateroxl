@@ -8,6 +8,11 @@ Because I only have limited financial resources, I thought of taking the informa
 
 Check out my link:https://github.com/cateroxl/Learning-Tracker[*Learning Tracker*]!
 
+=== 👩‍💻 ACCOUNTS
+
+link:https://nest.pijul.com/cateroxl[The Nest] +
+link:https://gitlab.com/cateroxl[Gitlab]
+
 === 🙋‍♀️ CONNECT
 
 Got any suggestions in mind? +
@@ -17,4 +22,4 @@ You're welcome to do so!
 Here are your options: +
 0⃣ Email: cateroxl@pm.me +
 1⃣ Discord: cateroxl#5892 +
-2⃣ Twitter: @cateroxl
+2⃣ link:https://twitter.com/cateroxl[Twitter]

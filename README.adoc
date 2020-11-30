@@ -12,15 +12,11 @@ Check out my link:https://github.com/cateroxl/Learning-Tracker[*Learning Tracker
 
 link:https://nest.pijul.com/cateroxl[The Nest] +
 link:https://gitlab.com/cateroxl[Gitlab] +
-link:https://discourse.nixos.org/u/cateroxl/[NixOs]
+link:https://discourse.nixos.org/u/cateroxl/[NixOs] +
+link:https://www.twitch.tv/cateroxl[Twitch]
 
 === 🙋‍♀️ CONNECT
 
-Got any suggestions in mind? +
-Want to be friends? +
-You're welcome to do so!
-
-Here are your options: +
 0⃣ Email: cateroxl@pm.me +
 1⃣ Discord: cateroxl#5892 +
 2⃣ link:https://twitter.com/cateroxl[Twitter]
